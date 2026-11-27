@@ -1,7 +1,7 @@
 # ⚡ GridMind AI – Electricity Consumption Analysis Dashboard
 
 ### AI-Powered Electricity Consumption Analysis and Demand Forecasting
-
+https://gridmind-ai-dashboard-7zp698cvaqsh5rthu2xrym.streamlit.app/?utm_source=chatgpt.com
 ## 📌 Project Overview
 
 GridMind AI is a data science project designed to analyze electricity consumption patterns across six cities in Pakistan. It provides an interactive dashboard for exploring electricity usage, comparing cities, and understanding hourly and monthly consumption trends.
